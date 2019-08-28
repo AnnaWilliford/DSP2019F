@@ -24,5 +24,5 @@ When setting up git:
 $ git config --global core.editor "notepad++"  #if in PATH
 
 #or
-$ git config --global core.editor "C:\Program Files (x86)\Notepad++"
+$ git config --global core.editor "'C:\Program Files (x86)\Notepad++\notepad++.exe'"
 ```
