@@ -1,5 +1,6 @@
 1. Download Git: https://git-scm.com/downloads
 2. Download Notepad++: https://notepad-plus-plus.org/download/v7.7.1.html
+3. Download Anaconda: https://www.anaconda.com/distribution/#download-section
 
 3. To add notepad++ to PATH so that it can be called from the command line, open GitBash window and type:
 ```
@@ -8,9 +9,14 @@ $ notepad .bash_profile
 
 #add Notepad++ to path inside .bash_profile
 export PATH=$PATH:"C:\Program Files (x86)\Notepad++" 
-
 #set alias
 alias npp=notepad++
+
+#add Anaconda to path:
+export PATH=$PATH:"$HOME/Anaconda3/"
+
+#set alias for python
+alias python='winpty python.exe'
 
 #save and close .bash_profile
 
