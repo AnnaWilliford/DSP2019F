@@ -31,4 +31,8 @@ $ git config --global core.editor "notepad++"  #if in PATH
 
 #or
 $ git config --global core.editor "'C:\Program Files (x86)\Notepad++\notepad++.exe'"
+
+#or on mac, to add Sublime:
+$ git config --global core.editor "/Applications/'Sublime Text.app'/Contents/MacOS/'Sublime Text'"
+
 ```
