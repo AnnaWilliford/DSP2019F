@@ -1,8 +1,9 @@
-1. Download Git: https://git-scm.com/downloads
-2. Download Notepad++: https://notepad-plus-plus.org/download/v7.7.1.html
-3. Download Anaconda: https://www.anaconda.com/distribution/#download-section
+* Download Git: https://git-scm.com/downloads
+* Download Notepad++: https://notepad-plus-plus.org/download/v7.7.1.html
+* Download Sublime: https://www.sublimetext.com/3
+* Download Anaconda: https://www.anaconda.com/distribution/#download-section
 
-3. To add new software to PATH so that it can be called from GitBash, open GitBash window and type:
+* To add new software to PATH so that it can be called from GitBash, open GitBash window and type:
 ```
 #create .bash_profile
 $ notepad .bash_profile
