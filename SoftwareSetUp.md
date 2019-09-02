@@ -1,3 +1,5 @@
+Software Setup
+
 * Download Git: https://git-scm.com/downloads
 * Download Notepad++: https://notepad-plus-plus.org/download/v7.7.1.html
 * Download Sublime: https://www.sublimetext.com/3
