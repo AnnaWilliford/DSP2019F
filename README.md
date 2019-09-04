@@ -7,7 +7,8 @@
 **University:** UTA  
 **Level:** Always learning  
 **Position Title:** Lecturer  
-[**Course Webpage**](https://www.cdslab.org/python/)  
+[**Course Webpage**](https://www.cdslab.org/python/)
+Etherpad Link: https://etherpad.net/p/PHYS5391
 ![](Williford_pic.png)
 <img src="Williford_pic.png" width=50% />
 
@@ -16,19 +17,17 @@
 
 This repository contains my homework, quizzes, and virtually every effort that I have made for PHYS5391. The structure of the project is the following:
 
-[homework:](Homework) (the homework hyperlink should take the reader to the homework folder)
+[homework:](Homework)  
 This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.
 
-[quiz:](quiz) (the quiz hyperlink should take the reader to the quizzes folder)
+[quiz:](Quiz)  
 This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.
 
-[exam:](exam) (the exam hyperlink should take the reader to the exams folder)
+[exam:](Exam)  
 This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
 
 For questions and troubleshooting, please contact:
 
-Anna Williford
+Anna Williford  
 awillifo@uta.edu
 
-<span style="color:blue">some *blue* text</span>.
-Etherpad Link: https://etherpad.net/p/PHYS5391
