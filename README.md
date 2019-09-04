@@ -8,6 +8,6 @@
 **Level:** Always learning  
 **Position Title:** Lecturer  
 [**Course Webpage**](https://www.cdslab.org/python/)  
-![m'lady](MyPic.jpg)
+![m'lady](Williford_pic.png)
 
 Etherpad Link: https://etherpad.net/p/PHYS5391
