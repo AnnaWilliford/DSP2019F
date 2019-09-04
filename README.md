@@ -16,7 +16,7 @@
 
 This repository contains my homework, quizzes, and virtually every effort that I have made for PHYS5391. The structure of the project is the following:
 
-[homework:](/homework) (the homework hyperlink should take the reader to the homework folder)
+[homework:](Homework) (the homework hyperlink should take the reader to the homework folder)
 This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.
 
 [quiz:](quiz) (the quiz hyperlink should take the reader to the quizzes folder)
