@@ -31,3 +31,6 @@ For questions and troubleshooting, please contact:
 Anna Williford  
 awillifo@uta.edu
 
+<font color="red">This is some text!</font>  
+
+<a href="Homework"><font color="red">link text</font></a>
