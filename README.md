@@ -30,7 +30,5 @@ For questions and troubleshooting, please contact:
 
 Anna Williford  
 awillifo@uta.edu
-
-<font color="red">This is some text!</font>  
-
-<a href="Homework"><font color="red">link text</font></a>
+> I have not failed. I’ve just found 10,000 ways that won’t work.  
+> Thomas A. Edison
