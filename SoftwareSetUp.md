@@ -35,6 +35,7 @@ $ git config --global core.editor "subl -n -w"
 
 #or
 $ git config --global core.editor "'C:\Program Files (x86)\Notepad++\notepad++.exe'"
+$ git config --global core.editor "'C:\Program Files\Sublime Text 3\sublime_text.exe' -n -w"
 
 
 #or on mac, to add Sublime:
