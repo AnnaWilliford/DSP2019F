@@ -31,9 +31,12 @@ $ source .bash_profile
 When setting up git:
 ```
 $ git config --global core.editor "notepad++"  #if in PATH
+$ git config --global core.editor "subl -n -w"
 
 #or
 $ git config --global core.editor "'C:\Program Files (x86)\Notepad++\notepad++.exe'"
+$ git config --global core.editor "'C:\Program Files\Sublime Text 3\sublime_text.exe' -n -w"
+
 
 #or on mac, to add Sublime:
 $ git config --global core.editor \

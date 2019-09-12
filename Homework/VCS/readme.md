@@ -11,7 +11,7 @@ $ git branch test2
 $ git checkout test1
 Switched to branch 'test1'
 
-#creat new file
+#create new file
 $ touch test.txt
 ```
 
@@ -37,7 +37,7 @@ $ git checkout test2
 Switched to branch 'test2'
 $ ls
 ```
-There is no test.txt file on branch test2 because when this branch was created, it copied master branch that did not containe test.txt
+There is no test.txt file on branch test2 because when this branch was created, it copied master branch that did not contain test.txt
 
 ### Problem Part2.E
 ```bash
@@ -155,7 +155,7 @@ $ git branch -d test1
 error: The branch 'test1' is not fully merged.
 If you are sure you want to delete it, run 'git branch -D test1'.
 ```
-?? Why not fully merged? Can I only delete branches from branchers to which branches I want to delete are merged?
+I did not merge test1 to test2, cannot delete branch from test2
 
 ### Problem Part2.P
 ```bash
@@ -208,7 +208,7 @@ Your branch is ahead of 'origin/master' by 9 commits.
 
 nothing to commit, working tree clean
 ```
-**Note** the content of this file were created as I worked through the problems. Now I copy these contents to readme.md on master branch and commit changes. Then push to remote.
+**Note** the content of this file was created as I worked through the problems. Now I copy this content to readme.md on master branch and commit changes. Then push to remote.
 
 ```bash
 $ git add --all
