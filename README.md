@@ -9,7 +9,7 @@
 **Position Title:** Lecturer  
 [**Course Webpage**](https://www.cdslab.org/python/)
 Etherpad Link: https://etherpad.net/p/PHYS5391
-![](Williford_pic.png)
+
 <img src="Williford_pic.png" width=50% />
 
 
